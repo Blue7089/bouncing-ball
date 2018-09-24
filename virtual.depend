@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537796362 source:/home/nilesh/Desktop/codeblocks project/test/virtual/myMacros.h
+	<iostream>
+
+1537799896 source:/home/nilesh/Desktop/codeblocks project/test/virtual/main.cpp
+	<iostream>
+	<string>
+	<myMacros.h>
+
+1537796362 /home/nilesh/Desktop/codeblocks project/test/virtual//myMacros.h
+	<iostream>
+
